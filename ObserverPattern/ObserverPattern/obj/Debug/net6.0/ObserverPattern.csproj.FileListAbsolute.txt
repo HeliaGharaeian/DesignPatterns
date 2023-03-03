@@ -1,0 +1,15 @@
+E:\razor\ObserverPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.csproj.AssemblyReference.cache
+E:\razor\ObserverPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\razor\ObserverPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.AssemblyInfoInputs.cache
+E:\razor\ObserverPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.AssemblyInfo.cs
+E:\razor\ObserverPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.csproj.CoreCompileInputs.cache
+E:\razor\ObserverPattern\ObserverPattern\bin\Debug\net6.0\ObserverPattern.exe
+E:\razor\ObserverPattern\ObserverPattern\bin\Debug\net6.0\ObserverPattern.deps.json
+E:\razor\ObserverPattern\ObserverPattern\bin\Debug\net6.0\ObserverPattern.runtimeconfig.json
+E:\razor\ObserverPattern\ObserverPattern\bin\Debug\net6.0\ObserverPattern.dll
+E:\razor\ObserverPattern\ObserverPattern\bin\Debug\net6.0\ObserverPattern.pdb
+E:\razor\ObserverPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.dll
+E:\razor\ObserverPattern\ObserverPattern\obj\Debug\net6.0\refint\ObserverPattern.dll
+E:\razor\ObserverPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.pdb
+E:\razor\ObserverPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.genruntimeconfig.cache
+E:\razor\ObserverPattern\ObserverPattern\obj\Debug\net6.0\ref\ObserverPattern.dll
