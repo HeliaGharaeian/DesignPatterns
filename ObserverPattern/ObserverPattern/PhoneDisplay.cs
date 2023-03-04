@@ -14,9 +14,7 @@ namespace ObserverPattern
             _station = station;
         }
 
-        //public PhoneDisplay()
-        //{
-        //}
+
 
         public void Update()
         {

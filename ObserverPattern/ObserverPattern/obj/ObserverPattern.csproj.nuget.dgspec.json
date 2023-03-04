@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\razor\\ObserverPattern\\ObserverPattern\\ObserverPattern.csproj": {}
+    "E:\\razor\\Design_Patterns\\ObserverPattern\\ObserverPattern\\ObserverPattern.csproj": {}
   },
   "projects": {
-    "E:\\razor\\ObserverPattern\\ObserverPattern\\ObserverPattern.csproj": {
+    "E:\\razor\\Design_Patterns\\ObserverPattern\\ObserverPattern\\ObserverPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\razor\\ObserverPattern\\ObserverPattern\\ObserverPattern.csproj",
+        "projectUniqueName": "E:\\razor\\Design_Patterns\\ObserverPattern\\ObserverPattern\\ObserverPattern.csproj",
         "projectName": "ObserverPattern",
-        "projectPath": "E:\\razor\\ObserverPattern\\ObserverPattern\\ObserverPattern.csproj",
+        "projectPath": "E:\\razor\\Design_Patterns\\ObserverPattern\\ObserverPattern\\ObserverPattern.csproj",
         "packagesPath": "C:\\Users\\ghara\\.nuget\\packages\\",
-        "outputPath": "E:\\razor\\ObserverPattern\\ObserverPattern\\obj\\",
+        "outputPath": "E:\\razor\\Design_Patterns\\ObserverPattern\\ObserverPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ghara\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e/+QGCRc/2HIk6rv03OQyRUEHpgZYa46uQ43YQiAfmIn6KVkb4l+VfRNqf0UcNbYYGyRSd2O+GhvYcfTLe/yPg==",
+  "dgSpecHash": "mJug/XopM7N/X6jXVK1MKLQyvacs88O6mks8Oi7w8/wp9+KaPeGnsi6XNf4+3hQbpbEYymNi54KsfY2S6yjm6Q==",
   "success": true,
-  "projectFilePath": "E:\\razor\\ObserverPattern\\ObserverPattern\\ObserverPattern.csproj",
+  "projectFilePath": "E:\\razor\\Design_Patterns\\ObserverPattern\\ObserverPattern\\ObserverPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
